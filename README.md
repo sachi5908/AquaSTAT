@@ -265,9 +265,7 @@ attribution, and update the hosted documentation when behavior changes.
 
 AquaSTAT is distributed under the **GNU General Public License, version 3**.
 See [LICENSE](LICENSE) for the complete license text.
-
-Original geochemical plotting work by **Jing Yang and collaborators** is retained.
-Scientific-module credits remain in the source and online references. The startup
+The startup
 and project interface draw inspiration from **FracSTAT**, and bundled third-party
 assets retain their original notices. Maps using OpenStreetMap must preserve
 contributor attribution.
